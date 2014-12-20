@@ -1,5 +1,6 @@
 ###In Development
 
+ - [#363](https://github.com/MehdiK/Humanizer/pull/363): Use RegexOptions.Compiled if available
 
 [Commits](https://github.com/MehdiK/Humanizer/compare/v1.32.0...master)
 
@@ -17,7 +18,7 @@
 
 ###v1.31.0 - 2014-11-08
   - [#340](https://github.com/MehdiK/Humanizer/pull/340): Fixed TimeSpan humanization precision skips units after the largest one when they're zero until it finds a non-zero unit
-  - [#347](https://github.com/MehdiK/Humanizer/pull/347): Changed één to 1 for dutch language.
+  - [#347](https://github.com/MehdiK/Humanizer/pull/347): Changed Ã©Ã©n to 1 for dutch language.
 
 [Commits](https://github.com/MehdiK/Humanizer/compare/v1.30.0...v1.31.0)
 
